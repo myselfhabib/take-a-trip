@@ -1,0 +1,27 @@
+.m-service{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    margin-top: 5%;
+}
+.mt-5{
+    color: rgb(82, 82, 82);
+}
+.rounded3{
+padding: 10px;
+border: none;
+background-color: #ffcc05;
+margin-left: 12px;
+font-weight: 500;
+}
+.rounded3:hover{
+    background-color: rgb(146, 143, 143);
+    color: white;
+}
+
+@media only screen and (max-width: 500px) {
+    .m-service{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+      

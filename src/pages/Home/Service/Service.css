@@ -1,0 +1,22 @@
+.service{
+ background-color: rgb(233, 229, 229);
+ border-radius: 5px;
+}
+.rounded{
+    width: 60%;
+    height: 49%s;
+}
+.rounded2{
+    background-color: #ffcc05;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    font-weight: 600;
+    border: none;
+}
+.rounded2:hover{
+    background-color: gray;
+    color: honeydew;
+}
+.px-3{
+    color: rgb(102, 101, 101);
+}

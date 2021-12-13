@@ -1,0 +1,16 @@
+.d-flex{
+    padding-top: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    justify-content: space-evenly;
+    background-color: rgb(20, 19, 29);
+}
+.logo2{
+    width: 130px;
+    height: 120px;
+}
+.logos{
+    cursor: pointer;
+}

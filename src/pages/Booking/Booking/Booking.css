@@ -1,0 +1,29 @@
+.id{
+    margin-top: 5%;
+}
+.confirm{
+text-decoration: none;
+padding: 8px 20px;
+background-color: rgb(243, 197, 47);
+color: rgb(26, 6, 36);
+font-weight: 500;
+border-radius: 5px;
+}
+.confirm:hover{
+    background-color: rgb(102, 99, 99);
+    color: white;
+}
+.cyb{
+    margin-top: 14%;
+}
+.yfn{
+    padding: 10px 15px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.yfn2{
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}

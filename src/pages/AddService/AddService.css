@@ -1,0 +1,22 @@
+.add-service form{
+    background-color: rgba(129, 214, 235, 0.404);
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 9%;
+}
+.add-service form input, textarea{
+    width: 40%;
+    margin: 10px;
+}
+.text3{
+    background-color: rgb(247, 173, 36);
+    font-weight: 500;
+}
+.bac{
+    margin-top: 12%;
+}

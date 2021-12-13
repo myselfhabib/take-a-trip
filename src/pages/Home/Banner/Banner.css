@@ -1,0 +1,58 @@
+.banner-tlt{
+    color: rgb(219, 253, 253);
+    font-size: 50px;
+    font-weight: 700;
+    padding: 10px;
+    background-color: rgba(23, 221, 89, 0.479);
+    border-radius: 90px;
+}
+.banner-tlt2{
+    margin-bottom: 16%;
+    background-color: rgba(23, 221, 89, 0.479);
+    border-radius: 90px;
+    color: rgb(231, 48, 16);
+    font-weight: 700;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.banner-tlt3{
+    margin-bottom: 16%;
+    background-color: rgba(221, 23, 115, 0.274);
+    border-radius: 90px;
+    color: rgb(235, 225, 225);
+    font-weight: 700;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.banner-tlt4{
+    font-size: 50px;
+    font-weight: 700;
+    padding: 10px;
+    background-color: rgba(247, 59, 184, 0.397);
+    border-radius: 90px;
+}
+
+  .p2 {
+    position: relative;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 2em;
+    letter-spacing: 4px;
+    overflow: hidden;
+    background: linear-gradient(90deg, rgb(243, 70, 70), rgb(28, 216, 207), rgb(243, 90, 70));
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 3s linear infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  }
+  
+  @keyframes animate {
+    0% {
+      background-position: -500%;
+    }
+    100% {
+      background-position: 500%;
+    }
+  }
